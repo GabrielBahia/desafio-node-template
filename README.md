@@ -9,12 +9,10 @@
 
 
 ## Objetivos do repositorio
-O objetivo do repositório é ter um projeto pré-configurado para os desenvolvedores realizarem o Desafio de NodeJS da gestão 2022.2.
+O objetivo do repositório é ter um projeto pré-configurado para os desenvolvedores realizarem o Desafio de NodeJS da gestão 2023.1.
 
 ## Propositos do desafio
-A proposta do desafio é criar uma API para uma Empresa Júnior fictícia. A API deve conter todos os requesitos funcionais que estão listados no Documento de Requesitos.
-<br>
-É obrigatório a entrega de pelo menos 50% do desafio.
+O projeto consiste em criar uma API que uma aplicação de delivery de produtos irá utilizar. Essa API tem o objetivo de fazer o gerenciamento de produtos, pedidos e restaurantes. Os Restaurantes poderão ser cadastrados e fazer login no sistema por meio de um token JWT. Após o login os restaurantes poderão consultar, cadastrar, editar e excluir seus produtos e seus pedidos com os produtos que ele possui. Um restaurante pode ter vários pedidos e produtos, assim como um pedido pode ter vários produtos.
 <br>
 Os Assessores de Projeto devem entregar o desafio completo até a data limite.
 <br>
@@ -27,6 +25,8 @@ Os Assessores de Projeto devem entregar o desafio completo até a data limite.
 4. Para rodar o projeto utilize `npm run dev`
 
 ## Links Uteis
-1. [Documentação do Express](https://expressjs.com/)
-2. [Documentação do Prisma](https://www.prisma.io/)
-3. [Documentação do TypeORM](https://typeorm.io/)
+1. [Documentação do desafio](https://docs.google.com/document/d/1JQSdnL4aG8LUC123GSkZgYsYDr0gdTSG8tg7BhNo1nM/edit?usp=sharing)
+2. [Documentação do Express](https://expressjs.com/)
+3. [Documentação do Prisma](https://www.prisma.io/)
+4. [Documentação do TypeORM](https://typeorm.io/)
+
